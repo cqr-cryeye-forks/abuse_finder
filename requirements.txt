@@ -1,5 +1,6 @@
 ipwhois
 ipaddress
-pythonwhois
+pythonwhois-alt>=2.4.6
 tldextract
 dnspython
+future

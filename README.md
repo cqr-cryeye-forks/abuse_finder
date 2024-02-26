@@ -1,6 +1,7 @@
 # abuse_finder
 
 Python library to help automatically find the most appropriate contact for abuse reports.
+Supports Python2.7 and Python3.6
 
 Currently supports the following types of observables:
 
@@ -11,9 +12,9 @@ Currently supports the following types of observables:
 
 ## Installation
 
-You can install this using pip:
+You can install the latest version using pip:
 
-    $ pip install abuse_finder
+    $ python -m pip install git+https://github.com/certsocietegenerale/abuse_finder.git
 
 Or from the source code:
 
